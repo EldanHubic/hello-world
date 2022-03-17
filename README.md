@@ -1,4 +1,6 @@
 # hello-world
 My first repo
 
-**Eldan Hubić**
+Author name: **Eldan Hubić**
+
+About this project: **Learning GitHub**

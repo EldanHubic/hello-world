@@ -14,4 +14,4 @@ changes from last-test branch
 
 test-test now good
 
-i made some changes in this branch, add, commit, push
+i made some changes in this branch, let, commit, push
